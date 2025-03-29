@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "supple-life-455021-b7",
+  "private_key_id": "015401369fd934b9278e2b5ef6fa90dbfd17a8eb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCvk9jWOW2RncE+\nlALFltPG343Bpz9342jEalVdVVOizwgSMj8I4rbFUe77PqLwPReM4vxcxmvNe/7c\nNgAreuX6amIFAAWVAhyZ0x6pg7KZ8yyHVE/DZAPn1MaOoOH/f35XNVg6dh4N23fa\ntVlaToj/VSZJSUTNok2eITiuDnoPP0pppZ8ywAZis1UMIETj5qATa0TDdTVRejuJ\nI8GyGbw6EiGP8j0kPeBk7YX4hJ5uTL9GGVnICqCiBkM+4TF/v3iJhOQ3mM5hsYHd\njHPUw4gUrfGkZbbhydbH4JgT1txxwmNA5SAwbQx9OJwPm718fVoi6AN38tRwiXd4\nOUxIwqKBAgMBAAECggEAEYghzsJNPo0SDr2YyUIWQ3VvIjchD0eV3ob/nyI2B7vE\ngoyh3rFErs9PnabTfkmbYGYJ7PmjKhGHkVWTDsRm0mps/zLRW9+qG3IJTcPowZaW\ni6zPiiMigLOuX++QoYKJiwu4k53Xwmp3vU7+bRYKd/R4rjiythXOyktm7XpklcEB\nvkmg26k3Nun7AtMmVokjJtPuy5oR3QfK3MATrjitmpdrg3jAqQ7MgtbOjysKs/pK\nUEiTrS0sM3Eca+NLzyyyqdk4yIUyDdH4dCmqKC4Lo3D3NdjhsgCTrVVKfKqtWN49\nuqFc3Lo5+nh0Yrs5iV02CC8EQLukkB2LNPiemRrcAQKBgQDcRJ3qX/HdGo2PyZkg\nMKHelmg66Pphfyj3/oPcXgoscP7X/v3qUINZjJf/kyxnnbBWrdlKEQ9mLS8b5l5l\nDtv8QN0G0YcMdUVU4E+xvXwl6yJqwP8mWzWJUVzdMInM46idPR43W++9Uy+uCOsb\nJIfKU0KQv+B/AV8zsBZ/qsFZaQKBgQDMD03Xqvp9Jk0gxMpiSYJXtbFzBpK2IC3n\nWqCBP4xITZK8TxD0PifYJnGi9E3QM++47KLNJHvM5ZxSpsL3iFc1TJJ7D8Wbn+c8\nZa69oynQ5DN7WvJ5kSGJofpZKxRWJR6F0v2yczHv11GUtVYFr1LY1RUAL6A1rayj\nctyOlX+FWQKBgQCDp+/LmzVxtuFORG1mNCtMZBJAw+iERgEy2cnu+baTAacRa7RR\nTXZ1G/fuJwWvmS1BYgAyqSfPJsq1nmhldxA+Inb6EFrsM1wRc1GvJ1cBQx37OQhI\n4NOLFDqxasWy1ZB/C3z4EdemDga9u07rllYjtMhgxI9m2mcQ+fs4q9ONoQKBgE4e\nWb2DjgtVG1e9HoFMBOMRApK3ZHjmjswvzJxOOKUBVXhTiHkIRnagGQa6IgPfrhkM\nNjL0kZRaHmMhxie/ASu9WaJU4mB2ca6UerXMfdijU/YYVhUl80HeSZnTPSDRawLu\nSAMFyIs50dhtJzZb7QpnYHfGw71o9FtKQJcxMjVZAoGBAKnBWFVoVqAbMN4/be1m\nTX7mtJ12FvLY64SllVCEDvUvUQwlb/dz+y06C7IuucAD5jwJcU7U5w9p1+BQDmje\nhSujLmWtSWf/dziLve+TnY8ZrcoV1+l+YqNmpyMIC2mghTzbnYbJgVecsql0wrBP\nOBiRVt3W2NvtcvZc6In8JA19\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloudsql-acess@supple-life-455021-b7.iam.gserviceaccount.com",
+  "client_id": "111475191976907266604",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloudsql-acess%40supple-life-455021-b7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
