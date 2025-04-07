@@ -69,7 +69,42 @@ O dashboard foi construído para visualizar:
 - **Google Cloud Platform** (hospedagem do banco)
 - **Power BI** (dashboard interativo)
 
----
 
-Qualquer dúvida ou sugestão, entre em contato! 🚀
+## ⚙️ Pré-requisitos
+
+- Python 3.8+
+- Conta na Google Cloud com um banco de dados MySQL configurado
+- Serviço CoinCap para consulta pública de criptoativos
+
+## 🧪 Instalação
+
+1. Clone este repositório:
+
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+cd seu-repositorio
+```
+2. Crie e ative um ambiente virtual (opcional, mas recomendado):
+```bash 
+python -m venv myenv
+source myenv/bin/activate  # Linux/Mac
+myenv\\Scripts\\activate   # Windows
+```
+3. Instale as dependências:
+```bash
+pip install -r requirements.txt
+```
+4. Crie um arquivo .env com suas variáveis:
+```bash
+GOOGLE_APPLICATION_CREDENTIALS=credenciais.json
+DB_USER=seu_usuario
+DB_PASSWORD=sua_senha
+DB_HOST=seu_host
+DB_NAME=seu_banco'
+```
+5. Coloque o arquivo de credenciais da GCP (JSON) na raiz do projeto com o mesmo nome que está no .env.
+```bash
+Está pronto, voce ja pode executar o "CoinCap.ipynb"
+```
+
 
